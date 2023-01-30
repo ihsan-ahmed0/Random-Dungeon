@@ -1,5 +1,5 @@
 # Random-Dungeon
-A top-down dungeon crawler with procedurally generated levels. Uses StdDraw library of functions 
+A top-down dungeon crawler with procedurally generated levels. Uses StdDraw library available publicly on the Princeton CS website to draw the graphics.
 
 ## Getting Started
 Download/clone the repo and open the folder in an IDE (that supports Java) of your choice. From there, just run Main.java.
